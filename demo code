@@ -1,0 +1,5 @@
+public class ishu{
+   public static main void ( string args[]){
+   system.out.print( "my name is iswarya");
+}
+}
